@@ -8,3 +8,4 @@
 * CSS
 
 Primeira Galeria feita. Utilizei fotos do sol para monta-la.# Galeria_Sol_2.0
+# Galeria_Sol_2.0
